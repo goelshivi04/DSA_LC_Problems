@@ -6,6 +6,6 @@ public:
         for (auto number : nums) { // iterate through the array
             sum += number; // add the number to the sum
         }
-        return total - sum; // return the difference between the sum and the total that is the missing number
+        return total - sum; // return the difference between the sum and the tot
     }
 };
